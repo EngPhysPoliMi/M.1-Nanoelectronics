@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Nanoelectronics of graphene and 2D materials
 
-Repository for "Template".
+Repository for "Nanoelectronics of graphene and 2D materials".
 
 
 ## Use instructions
